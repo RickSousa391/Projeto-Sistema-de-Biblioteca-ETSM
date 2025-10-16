@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/src/java/model/UsuarioDAO.java</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/src/java/controller/LoginBibliotecaria.java</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/web/login.jsp</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/web/js/Tempo.js</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/src/java/controller/PesquisaLivro.java</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/src/java/model/BibliotecariaDAO.java</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/web/CadastrarEmprestimo.jsp</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/web/js/Ativo.js</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/web/cadastrarLivro.jsp</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/src/java/controller/GerenciarLivro.java</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/src/java/controller/Logout.java</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/src/java/controller/PesquisaUsuario.java</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/src/java/misc/JWTManager.java</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/src/java/model/EmprestimoDAO.java</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/src/java/model/QuatidadeLivro.java</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/web/listadeEmprestimo.jsp</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/web/Livro.jsp</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/web/cadastrarUsuario.jsp</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/src/java/model/Livro.java</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/web/listadeUsuario.jsp</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/src/java/controller/GerenciarUsuario.java</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/web/cosultarUsuario.jsp</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/src/java/factory/conexaofactory.java</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/web/index2.jsp</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/src/java/model/Emprestimo.java</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/src/java/model/LivroDAO.java</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/web/listadeLivro.jsp</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/src/java/controller/GerenciarEmprestimo.java</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/src/java/model/QuatidadeLivroDAO.java</file>
+            <file>file:/C:/Users/cfqr4byfeo8uoj4b/Documents/NetBeansProjects/BibliotecaTCC/web/template/menu.jsp</file>
+        </group>
+    </open-files>
+</project-private>

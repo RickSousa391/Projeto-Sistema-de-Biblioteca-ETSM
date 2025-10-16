@@ -1,0 +1,37 @@
+*{
+   box-sizing: border-box;
+}
+
+.carousel{
+    width: 100%;
+    overflow-x: auto;
+    margin: 3em auto;
+    display: flex;
+    gap: 1em;
+    border: 10px; 
+    scroll-behavior: smooth;
+    scroll-snap-type: x mandatory;
+    border-radius: .10em;
+    
+}
+
+
+
+.carousel::webkit-scrollbar:disabled{
+    display: none;
+}
+
+.carousel::scroll-button(right):disabled, .carousel::scroll-button(left):disabled{
+    opacity: 0.4;
+    cursor: auto;
+}
+.card{
+    scroll-snap-align: start;
+    flex: 0 0 10em;
+    height: 12em;
+    background-color: var(--primary-color);
+    padding: 0.30em;
+    border-radius: .5em;
+    text-align: center;
+    align-content:flex-end;
+}

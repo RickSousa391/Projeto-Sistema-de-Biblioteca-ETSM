@@ -1,0 +1,13 @@
+#Nav1{background-color: white; padding: 5px; display: flex; align-items: center;}
+
+#Nav1 a{
+    text-decoration: none;
+}
+#Nav1 a:houver{
+    color:#34ce57;
+}
+
+#Img1{
+    width: 50px;
+    height: 190px;
+}
